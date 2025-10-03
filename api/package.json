@@ -1,0 +1,9 @@
+{
+  "name": "newstuff",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@vercel/kv": "^1.0.0",
+    "@upstash/ratelimit": "^1.0.0"
+  }
+}
